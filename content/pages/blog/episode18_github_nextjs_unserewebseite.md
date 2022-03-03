@@ -30,9 +30,17 @@ gyroscope; picture-in-picture" allowfullscreen>\\\</iframe>
 
 Fast jede Woche werden wir gefragt, wie man einen Beitrag leisten kann für digitale-dinge.de - viele von euch möchten Tutorials veröffentlichen oder etwas zu einer Sendung ergänzen. Warum wir Next.js (ein React Framework) in Kombination mit github verwenden und wie das ganze funktioniert, zeigen wir in dieser Sendung. Wenn Du schon immer wissen wolltest, wie Du Content in github ohne CRM verwaltest und die gerenderten Webseiten automatisch deployen lassen kannst, dann ist das die richtige Episode für Dich! Aber auch Maker, die einen Überblick über git und Visual Studio Code suchen, werden hier auf ihre Kosten kommen.
 
+## Tools für VS Code
+
+Zur Erleichterung beim erfassen von Markdown gibt es coole Tooling in Visual Studio Code. Mein Favorit ist Markdown Preview Github Styling von Matt Biemer. Dieses Tool bietet eine Preview Anzeige wo man sofort die MD Site im Vorschau Modus innerhalb von VS Code ansehen kann. So muss man als Autor nicht immer alles kompalieren sondern kann alles fertig machen und korrieren und so Zeit sparen.  
+
+## Discord Informationsmaterialien
+
 Wir sind jeden Dienstag um 21 Uhr live uns sprechen über digitale Dinge! Über einen Kommentar unter dem Video freuen wir uns sehr und noch schöner ist es, wenn wir uns im Live-Chat auf YouTube und Discord austauschen können. Du findest uns bei https://discord.digitale-dinge.de/
 
 # Links zur Sendung
 
 * [github Repository unserer Webseite](https://github.com/renebohne/digitale-dinge/)
 * [Visual Studio Code](https://code.visualstudio.com/)
+* [Markdown Preview Github Styling](https://marketplace.visualstudio.com/items?itemName=bierner.markdown-preview-github-styles
+)
